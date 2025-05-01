@@ -20,7 +20,7 @@ After successful integration:
 
 - **Backend**: PHP, SQL  
 - **Frontend**: HTML, JavaScript, CSS  
-- **Platform**: Moodle LMS
+- **Platform**: Moodle
 
 ---
 
